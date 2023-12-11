@@ -43,7 +43,7 @@ class Camera:
             image_encoding=fc.face_encodings(image_loading, image_location, num_jitters=1)
             locate_dataset=[]
             for bounding, encoding in zip(image_location, image_encoding):
-                boolan_match=fc.compare_faces(encodings, encoding, tolerance=0.5)
+                boolan_match=fc.compare_faces(encodings, encoding, tolerance=0.48)
                 votes=list()
                 name_match=""
                 for bool, name in zip(boolan_match, name_encoding['names']):

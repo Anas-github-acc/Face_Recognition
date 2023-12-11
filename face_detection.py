@@ -28,7 +28,7 @@ def Training():
         print(f'"{filepath.name}" preparing...')
         img=fc.load_image_file(f"training/{filepath.name}")
         face_locations=fc.face_locations(img, model="hog") #hog is faster than cnn  
-        face_encoding=fc.face_encodings(img, face_locations, model='hog', num_jitters=10)
+        face_encoding=fc.face_encodings(img, face_locations, model='hog', num_jitters=1) #this should be either more than 100 or 1
         for encoding in face_encoding:
             encodings.append(encoding)
     #saving
@@ -63,9 +63,9 @@ def Detection(_image=None):#_image is list of frame and name
             print(f"No face detected in image '{img}'")
             result[img]=False
             continue
-        image_encoding=fc.face_encodings(image_loading[0], image_location, num_jitters=3)
+        image_encoding=fc.face_encodings(image_loading[0], image_location, num_jitters=1)
         for bounding, encoding in zip(image_location, image_encoding):
-            boolan_match=fc.compare_faces(encodings, encoding )
+            boolan_match=fc.compare_faces(encodings, encoding ,tolerance=0.49)
             votes=Counter(name for match, name in zip(boolan_match, name_encoding['names']) if match)
             print(f"colelation : {votes}")
             if votes:
