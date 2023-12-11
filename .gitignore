@@ -1,0 +1,4 @@
+# Ignore _pycache_ directory
+_pycache_/*
+.cph/
+.vscode/
