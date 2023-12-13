@@ -1,1 +1,5 @@
-#readme.md contains guide line to use this tool
+authors
+1.Mohd Anas
+2.Arpit Pandey
+3.Visvajit
+4.Abhishek Misal
