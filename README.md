@@ -15,9 +15,9 @@
     <br/>
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSeRpj4z2rHdSRlLQmDIVLZvKyqSPOgIuv64bgRR9zcKKVP5Cg/viewform?usp=pp_url">feedback</a>
     .
-    <a href="https://github.com/ShaanCoding/ReadME-Generator/issues">Report Bug</a>
+    <a href="https://github.com/Anas-github-acc/Face_Recognition/issues">Report Bug</a>
     .
-    <a href="https://github.com/ShaanCoding/ReadME-Generator/issues">Request Feature</a>
+    <a href="https://github.com/Anas-github-acc/Face_Recognition/issues">Request Feature</a>
   </p>
 </p>
 
