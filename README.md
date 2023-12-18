@@ -21,17 +21,12 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/ShaanCoding/ReadME-Generator/total) ![Contributors](https://img.shields.io/github/contributors/ShaanCoding/ReadME-Generator?color=dark-green) ![Forks](https://img.shields.io/github/forks/ShaanCoding/ReadME-Generator?style=social) ![Issues](https://img.shields.io/github/issues/ShaanCoding/ReadME-Generator) 
+<p align="center">![Downloads](https://img.shields.io/github/downloads/ShaanCoding/ReadME-Generator/total) ![Contributors](https://img.shields.io/github/contributors/ShaanCoding/ReadME-Generator?color=dark-green) ![Forks](https://img.shields.io/github/forks/ShaanCoding/ReadME-Generator?style=social) ![Issues](https://img.shields.io/github/issues/ShaanCoding/ReadME-Generator) </p>
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](https://i.pinimg.com/564x/c7/44/8e/c7448e77953683dc5c99f28ee8ad622b.jpg)
 
-<center>-------- Yet Nothing  ------</center><br>
-
-## Built With
-
-Here are a few examples.
 
 ## Getting Started
 
