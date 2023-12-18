@@ -52,7 +52,7 @@ install required python libraries
 <div style="color:grey;">To install above libraries use the following,<br>pip install opencv-python</div>
 <div style="color:grey;font-size:14px">please, don't forget to use correct name of the library
 <div style="color:red;">check from https://pypi.org/</div></div>
-<br><br>
+<br/><br/>
 
 ### Installation
 
@@ -64,7 +64,7 @@ install required python libraries
 
 2. Install the required libraries ( go through above mention steps )
 
-3.Run the command in your terminal 
+3. Run the command in your terminal 
 this gives you complete guide how to get train your images and run detection code
 ```sh
 ~$python main.py --help
