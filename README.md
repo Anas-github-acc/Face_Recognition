@@ -21,10 +21,11 @@
   </p>
 </p>
 
-<p align="center">![Downloads](https://img.shields.io/github/downloads/ShaanCoding/ReadME-Generator/total) ![Contributors](https://img.shields.io/github/contributors/ShaanCoding/ReadME-Generator?color=dark-green) ![Forks](https://img.shields.io/github/forks/ShaanCoding/ReadME-Generator?style=social) ![Issues](https://img.shields.io/github/issues/ShaanCoding/ReadME-Generator) </p>
+
+![Downloads](https://img.shields.io/github/downloads/ShaanCoding/ReadME-Generator/total) ![Contributors](https://img.shields.io/github/contributors/ShaanCoding/ReadME-Generator?color=dark-green) ![Forks](https://img.shields.io/github/forks/ShaanCoding/ReadME-Generator?style=social) ![Issues](https://img.shields.io/github/issues/ShaanCoding/ReadME-Generator)
+
 
 ## About The Project
-
 ![Screen Shot](https://i.pinimg.com/564x/c7/44/8e/c7448e77953683dc5c99f28ee8ad622b.jpg)
 
 
@@ -40,11 +41,14 @@ required libraries and version for smooth working
 install required python libraries
 
 *dlib == 19.24.0
-*face_recognition == 1.3.0
-*numpy == 1.24.2
+*face_recognition == 1.3.0<br/>
+*numpy == 1.24.2<br/>
 *opencv == 4.8.1
 
-<div style="color:grey;">To install above libraries use the following,<br>pip install opencv-python</div>
+To install above libraries use the following,
+```sh
+pip install opencv-python
+```
 <div style="color:grey;font-size:14px">please, don't forget to use correct name of the library
 <div style="color:red;">check from https://pypi.org/</div></div>
 <br/><br/>
