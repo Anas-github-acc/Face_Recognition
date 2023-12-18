@@ -10,7 +10,7 @@
     face recognition is an project that uses deep learning algorithm to detect faces and identify according to your training data.
     <br/>
     <br/>
-    <a href="[https://github.com/ShaanCoding/ReadME-Generator](https://github.com/Anas-github-acc/Face_Recognition/)"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Anas-github-acc/Face_Recognition/"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSeRpj4z2rHdSRlLQmDIVLZvKyqSPOgIuv64bgRR9zcKKVP5Cg/viewform?usp=pp_url">feedback</a>
@@ -65,10 +65,10 @@ install required python libraries
 2. Install the required libraries ( go through above mention steps )
 
 3.Run the command in your terminal 
+this gives you complete guide how to get train your images and run detection code
 ```sh
 ~$python main.py --help
 ```
-this gives you complete guide how to get train your images and run detection code
 
 Quick run
 ```JS
