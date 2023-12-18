@@ -13,7 +13,7 @@
     <a href="https://github.com/Anas-github-acc/Face_Recognition/"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeRpj4z2rHdSRlLQmDIVLZvKyqSPOgIuv64bgRR9zcKKVP5Cg/viewform?usp=pp_url">feedback</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeRpj4z2rHdSRlLQmDIVLZvKyqSPOgIuv64bgRR9zcKKVP5Cg/viewform?usp=pp_url">Feedback</a>
     .
     <a href="https://github.com/Anas-github-acc/Face_Recognition/issues">Report Bug</a>
     .
