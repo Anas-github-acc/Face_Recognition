@@ -60,7 +60,7 @@ class Camera:
                     print(f"Hello {name}!")
                     flag=True
                 else:
-                    name="Lodu"
+                    name="Unknown"
                     print(name)
                     flag=False
                 locate_dataset.append([name, image_loading, bounding, flag])
