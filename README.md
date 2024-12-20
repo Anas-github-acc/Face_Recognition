@@ -70,8 +70,22 @@ this gives you complete guide how to get train your images and run detection cod
 ```
 
 Quick run
+```PY
+python3 main.py --help
+```
 ```JS
-python main.py --auth
+Usage: python3 main.py [option] ... [-t | --train /d /f ] [-a | --auth] [-C | --cam] [-V | --video] 
+[-v | --version] [-h | --help]
+            Options:
+            -t, --train     Train the model
+                  /data     Show the trained data
+                  /folder   Train the model with images in folder 'training'
+            -a, --auth      Authenticate the user
+                  /folder   Authenticate the user with images in folder 'validation'
+            -C, --cam       Open the camera
+            -V, --video     Record the video
+            -v, --version   Show the version
+            -h, --help      Show this help
 ```
 
 ## Contributing
