@@ -40,14 +40,14 @@ required libraries and version for smooth working
 
 install required python libraries
 
-*dlib == 19.24.0
-*face_recognition == 1.3.0<br/>
-*numpy == 1.24.2<br/>
-*opencv == 4.8.1
+dlib == 19.24.0
+face_recognition == 1.3.0<br/>
+numpy == 1.24.2<br/>
+opencv == 4.8.1
 
 To install above libraries use the following,
 ```sh
-pip install opencv-python
+pip install -r requirements.txt
 ```
 <div style="color:grey;font-size:14px">please, don't forget to use correct name of the library
 <div style="color:red;">check from https://pypi.org/</div></div>
@@ -58,7 +58,7 @@ pip install opencv-python
 1. Clone the repo
 
 ```sh
-~$git clone https://github.com/Anas-github-acc/Face_Recognition.git
+git clone https://github.com/Anas-github-acc/Face_Recognition.git
 ```
 
 2. Install the required libraries ( go through above mention steps )
@@ -71,7 +71,7 @@ this gives you complete guide how to get train your images and run detection cod
 
 Quick run
 ```JS
-~$python main.py --auth
+python main.py --auth
 ```
 
 ## Contributing
@@ -89,10 +89,3 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## Authors
-
-* **Mohd Anas** - *Comp Sci Student* - [Mohd Anas](https://github.com/Anas-github-acc) - *Built ReadME Template*
-* **Arpit Pandey** - *Comp Sci Student* - [Arpit Pandey]() - **
-* **Visvajit** - *CS student* - [Visvajit]() - **
-* **Abhishek Pandey** - *CS student* - [Abhishek Pandey]() - **
