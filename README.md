@@ -40,7 +40,7 @@ required libraries and version for smooth working
 
 install required python libraries
 
-dlib == 19.24.0
+dlib == 19.24.0<br/>
 face_recognition == 1.3.0<br/>
 numpy == 1.24.2<br/>
 opencv == 4.8.1
